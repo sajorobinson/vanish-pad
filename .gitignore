@@ -64,3 +64,4 @@ fastlane/test_output
 VanishPad.app/Contents/Info.plist
 VanishPad.app/Contents/MacOS/VanishPad
 VanishPad.app/Contents/Resources/AppIcon.icns
+.vscode
