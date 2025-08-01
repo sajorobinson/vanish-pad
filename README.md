@@ -23,7 +23,7 @@ Just a place to edit text (momentarily).
 You'll need the following to build & run VanishPad:
 
 - A Mac running MacOS 12+
-- swift
+- Swift
 - XCode Command Line Tools
 
 ## Build instructions
@@ -32,6 +32,6 @@ Once you've fulfilled the build instructions, follow the steps below to build Va
 
 1. Clone the repo to your machine.
 2. Navigate to the repo: `cd ~/Documents/GitHub/VanishPad`
-3. Build the app with the included script: `swift build.swift`
+3. Build the app with the included script: `swift Build.swift`
 
 The resulting application will build in the repo directory.
