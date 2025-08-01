@@ -4,6 +4,8 @@
 
 ## Overview
 
+![Screenshot of VanishPad](Resources/screenshot.png)
+
 **VanishPad** is a unique and aggressively simple text editor for MacOS.
 
 You **can't save** your work in VanishPad. Once you close the window, your writing is **gone forever**.
