@@ -5,11 +5,9 @@ struct ContentView: View {
     @State private var fontSize: CGFloat = 15
     @State private var showClearAlert = false
     @State private var text: String = """
-        VanishPad cannot save files.
-
+        VanishPad can't save your work. 
+        
         When you close this window, anything you've typed will be gone forever.
-
-        If you want to preserve something you write, copy/paste it into another application.
         """
 
     let availableSizes = Array(stride(from: 5, through: 120, by: 5))
