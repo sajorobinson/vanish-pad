@@ -9,7 +9,6 @@ struct VanishPadApp: App {
         .commands {
             CommandGroup(after: .newItem) {
                 Button("Clear All…") {
-                    // Send notification or use environment to clear text
                     NotificationCenter.default.post(name: .clearAllText, object: nil)
                 }
                 .keyboardShortcut("K", modifiers: [.command, .shift])
