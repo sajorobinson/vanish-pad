@@ -4,7 +4,7 @@ import Foundation
 
 let appName = "VanishPad"
 let executableName = appName
-let bundleIdentifier = "com.example.\(appName.lowercased())"
+let bundleIdentifier = "name.samrobinson.\(appName.lowercased())"
 let version = "1.0"
 let iconFileName = "AppIcon.icns"
 let iconSourcePath = "Resources/\(iconFileName)"
